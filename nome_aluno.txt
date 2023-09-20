@@ -3,5 +3,4 @@ help
 nka
 
 ex4
-
-new
+lord
