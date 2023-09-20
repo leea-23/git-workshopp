@@ -1,7 +1,3 @@
 K.O.
 help
 nka
-
-ex4
-lord
-modifss
